@@ -1,0 +1,35 @@
+.t1{
+    color: #d25656;
+   font-size: 100px;
+    font-family: "Dancing Script", cursive;
+}
+.size{
+    width: 100%;
+}
+.t2{
+    color: blueviolet;
+    font-size: 100px;
+    font-family:"Dancing Script", cursive; ;
+}
+
+.rnd{
+    border-radius: 90px !important;
+    padding-left: 10%;
+}
+.btn1{
+    width:100% ;
+    
+}
+.rnd::placeholder{
+    color: rgba(76, 74, 74, 0.19);
+}
+.icon1-possition{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.icon2-position{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
